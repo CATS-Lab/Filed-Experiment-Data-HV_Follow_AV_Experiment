@@ -1,0 +1,13 @@
+1.Const Speed Experiment
+  1.1 Driverx Speed.mat:  
+	FollowingVehicleAV10: speed of the following vehicle during the experiment, the leading vehicle is running in autonomous mode and the speed of the leading vehicle is set at 10 km/h.
+	FollowingVehicleHV10: speed of the following vehicle during the experiment, the leading vehicle is running in human driven moode and the speed of the leading vehicle is set at 10 km/h.
+	LeadingVehicleAV10  : speed of the leading vehicle during the experiment, the leading vehicle is running in autonomous mode and the speed is set at 10 km/h.
+	LeadingVehicleHV10  : speed of the leading vehicle during the experiment, the leading vehicle is running in human driven mode and the speed is set at 10 km/h.
+  1.2 Driverx Trajectory.mat
+	FollowingVehicleAVLat10: latitude of the following vehicle during the experiment, the leading vehicle is running in autonomous mode and the speed is set at 10 km/h.
+	FollowingVehicleAVLon10: longitude of the following vehicle during the experiment, the leading vehicle is running in autonomous mode and the speed is set at 10 km/h.
+	......
+2.Dynamic Speed Experiment
+	......
+
